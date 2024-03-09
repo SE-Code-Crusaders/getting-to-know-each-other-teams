@@ -3,7 +3,7 @@ Created this website for Software Engineering. This page is a simple getting to 
 
 # Contact
 - Email: mateuszobrochta@lewisu.edu
-- Email: 
+- Email: ivansanchez@lewisu.edu
 - Email: 
 - Email: 
 
